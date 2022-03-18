@@ -1,0 +1,5 @@
+.DS_Store
+*.ipynb_checkpoints
+Machine Learning/A Real-Life Massive Machine Learning Pipeline with scikit-learn/*
+*.mp4
+*.paint

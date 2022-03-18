@@ -1,0 +1,7 @@
+jupyterlab>=1.0.0
+jupyter-server-proxy
+pandas
+scikit-learn
+seaborn
+dash
+bar_chart_race
