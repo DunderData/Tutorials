@@ -24,4 +24,4 @@ Sample my material by taking my [free Intro to Pandas class][4].
 [1]: https://www.dunderdata.com/master-the-fundamentals-of-python
 [2]: https://www.dunderdata.com/master-data-analysis-with-python
 [3]: https://www.dunderdata.com/master-machine-learning-with-python
-[4]: https://www.dunderdata.com/https://www.dunderdata.com/intro-to-pandas
+[4]: https://www.dunderdata.com/intro-to-pandas
